@@ -1,28 +1,91 @@
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Osnovne odrednice"
   item:
-  - title : "Research and Plan"
+  - title : "Vizija"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Split kao mjesto najboljih društvenih i profesionalnih prilika za mlade."
 
-  - title : "Design and Develop"
+  - title : "Misija"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Stvarati i pružati najbolje prilike za društveni i profesionalni razvoj
+      mladih, te poticati i zagovarati njihov nastanak."
 
-  - title : "Deliver"
+  - title : "Ciljevi"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Aktiviranje mladih ljudi na svim društvenim razinama, informiranje o
+      njihovim pravima i društvenim potrebama, te promicanje i zaštita njihovih interesa."
 
 
 team:
   enable: true
-  title : "My Team"
+  title : "Naš tim"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-
+    - title : "Anja Ančić"
+      image : "images/team/Ancic.jpg"
+      designation : "Makaranka, magistrirala Molekularnu biologiju na PMF-u u Zagrebu,
+      trenutno radi na medicinskom fakultetu u Splitu. Aktivno sudjeluje u popularizaciji
+      znanosti kroz održavanje raznih radionica i predavanja. Osim u KMS-u, volontira
+      u udruzi profesor Baltazar i Start-up udruzi. Zaljubljenica u prirodu, aktivan
+      život i hranu. Predsjednica KMS-a od 2020.g."
+  - title: "Mihaela Lovrić"
+    image: "images/team/Lovric.png"
+    designation: "Rođena u Njemačkoj, živi u Splitu. Završila Katolički bogoslovni
+      fakultet. Trenutno radi kao voditeljica projekta Centar za društveno korisno
+      učenje te koordinatorica studenata. Voli knjige, filmove, putovanja, koncerte.
+      Studentica ;)"
+  - title: Mira Ursić
+    image: images/team/Ursic.jpg
+    designation: Rođena u Splitu. Magistrirala Arheologiju u Zadru. Trenutno zaposlena
+      u Klubu mladih Split kao koordinatorica studenata na projektu Centar za društveno
+      korisno učenje. Također, povremeno radi kao arheolog na iskapanjima, instruktorica
+      joge i freelance writer. U slobodno vrijeme se bavi jogom, slobodnim penjanjem
+      i druži sa prijateljima.
+  - title: Romana Ban
+    image: images/team/Ban.jpg
+    designation: 'Volonterka u različitim organizacijama za djecu i mlade od srednjoškolskih
+      dana. Suosnivačica Kluba mladih Split, u kojem je kao voditeljica projekata
+      i programa radila gotovo pet godina. Trenutno zaposlena kao izvršna urednica
+      portala Split Tech City. Majčinstvo ju je potaknulo na pokretanje bloga o slikovnicama
+      “Djeco, laku noć!” '
+  - title: Antea Duvnjak
+    image: images/team/Duvnjak.jpg
+    designation: "“Falile se Kaštelanke da su lipše neg Splićanke” Iz Kaštela, maturantica
+      splitskog MIOC-a. Volontira u Klubu mladih Split od svoje 16. godine. Također,
+      animira djecu u Oratoriju na Kmanu. Zanima je znanost. U slobodno vrijeme svira
+      klavir i gitaru. Voli putovati i istraživati svijet. "
+  - title: Mirela Mravak
+    image: images/team/Mravak.jpg
+    designation: U Klubu mladih Split od 2019. kao voditeljica marketinga i PR-a.
+      Nakon što je diploma ekonomije potrošena na 12 godina rada u turizmu, posvećena
+      je svojoj dugogodišnjoj ljubavi prema PR-u (okrunjeno također diplomom). Voli
+      krizni management i biti zatrpana poslom. Sav novac potrošit će na edukacije
+      i putovanja, za ostalo što ostane!
+  - title: Luka Mladinić
+    image: images/team/Mladinic.jpeg
+    designation: Rođen u Splitu. Završio osnovnu i srednju školu u Splitu, trenutno
+      studira novinarstvo u Zagrebu. Velik obožavatelj sporta i fotografije. U slobodno
+      vrijeme se bavi fotografijom. Prva i posljednja ljubav mu je Hajduk. Volonter
+      udruge MoST, centra Juraj Bonači. Od 2019. aktivni volonter KMS.
+  - title: Nela Kundičević Dukan
+    image: images/team/Kundicevic Dukan.jpg
+    designation: 'Rođena u Splitu. Magistrirala "Turizam i hotelijerstvo" na Ekonomskom
+      fakultetu u Splitu. Trenutno nezaposlena, ali aktivno sudjeluje u KMS-u koji
+      joj je i ujedno prvo volontersko iskustvo. U slobodno vrijeme voli se baviti
+      yogom, veliki je foodie i voli restorane, te putuje svijetom kad god stigne! '
+  - title: Maria Bošković
+    image: images/team/Boskovic.jpg
+    designation: Magistra molekularne biologije, trenutno zaposlena na Medicinskom
+      fakultetu u Splitu kao znanstvena novakinja. Baš kao i Blanka, započela je sa
+      sudjelovanjem u radu Kluba mladih Split preko projekta “Lably”. Voli knjige,
+      putovanja, hranu, druženja.
+  - title: Blanka Roje
+    image: images/team/Blanka Roje.jpg
+    designation: Po struci profesorica biologije i kemije, a po zanimanju znanstvena
+      novakinja na Medicinskom fakultetu u Splitu. Bavi se biologijom tumora mokraćnog
+      mjehura. Sudjeluje u radu Kluba mladih Split preko znanstveno-edukacijskog projekta
+      'Lably' . U slobodno vrijeme voli boraviti u prirodi, gledati i analizirati
+      filmove i čitati popularnu znanost.
     - title : "Julias Carlie"
       image : "images/team/member-2.png"
       designation : "Web Developer"
