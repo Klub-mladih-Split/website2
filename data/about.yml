@@ -79,15 +79,13 @@ team:
       fakultetu u Splitu kao znanstvena novakinja. Baš kao i Blanka, započela je sa
       sudjelovanjem u radu Kluba mladih Split preko projekta “Lably”. Voli knjige,
       putovanja, hranu, druženja."
-  - title: Blanka Roje
+  - title: "Blanka Roje"
     image: "images/team/Blanka Roje.jpg"
     designation: "Po struci profesorica biologije i kemije, a po zanimanju znanstvena
       novakinja na Medicinskom fakultetu u Splitu. Bavi se biologijom tumora mokraćnog
       mjehura. Sudjeluje u radu Kluba mladih Split preko znanstveno-edukacijskog projekta
       'Lably' . U slobodno vrijeme voli boraviti u prirodi, gledati i analizirati
       filmove i čitati popularnu znanost."
-
-
 
 clients_logo_slider:
   enable : true
