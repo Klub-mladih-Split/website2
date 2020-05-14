@@ -1,16 +1,16 @@
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Budi promjena <br> koju želiš <br> vidit u Splitu!"
 
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Mi smo Klub mladih Split, pridruži nam se!"
   button:
     enable : true
-    label : "know more"
-    URL : "about"
+    label : "Istraži"
+    URL : "forum.klubmladihsplit.hr"
 
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Web Design"
@@ -30,7 +30,7 @@ skill:
       color : "#ffbcaa"
 
 experience:
-  enable : true
+  enable : false
   title : "Experience"
   item:
     - logo : "images/experience/icon-1.png"
@@ -50,7 +50,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
     - title : "Marters in UX Design"
@@ -71,7 +71,7 @@ education:
 
 # service
 service:
-  enable : true
+  enable : false
   title : "Services"
   item:
     - title : "UI Design"
@@ -92,13 +92,13 @@ service:
 # portfolio
 portfolio:
   enable : true
-  title : "Portfolio"
+  title : "Projekti"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -119,39 +119,29 @@ testimonial:
 # client logo slider
 clients_logo_slider:
   enable : true
+  title : "Sponzori"
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+    - logo : "images/sponsors/include zlatni.png"
+      URL : "https://www.include.eu"
 
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+    - logo : "images/sponsors/aspira.jpg"
+      URL : "https://aspira.hr"
 
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+    - logo : "images/sponsors/dentech.png"
+      URL : "https://www.dentech.hr"
 
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+    - logo : "images/sponsors/getbybus.png"
+      URL : "https://www.getbybus.com"
 
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+    - logo : "images/sponsors/toto.jpg"
+      URL : "https://www.facebook.com/totosburgerbar/"
 
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
+    - logo : "images/sponsors/typequast.png"
+      URL : "https://typeqast.com/en/"
 
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
-
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
 
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "Blog"
   # blog post comes from "content/blog" folder
