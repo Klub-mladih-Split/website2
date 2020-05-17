@@ -1,147 +1,128 @@
+---
 banner:
-  title : "Budi promjena <br> koju želiš <br> vidit u Splitu!"
-
+  title: Budi promjena <br> koju želiš <br> vidit u Splitu!
 about:
-  enable : true
-  content : "Mi smo Klub mladih Split, pridruži nam se!"
+  enable: false
+  content: Mi smo Klub mladih Split, pridruži nam se!
   button:
-    enable : true
-    label : "Istraži"
-    URL : "forum.klubmladihsplit.hr"
-
+    enable: true
+    label: Istraži
+    URL: forum.klubmladihsplit.hr
 skill:
-  enable : false
-  title : "Skills"
+  enable: false
+  title: Skills
   item:
-    - title : "Web Design"
-      progress : "90%"
-      color : "#fdb157"
-
-    - title : "Logo Design"
-      progress : "60%"
-      color : "#9473e6"
-
-    - title : "After Effects"
-      progress : "80%"
-      color : "#bdecf6"
-
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
-
+  - title: Web Design
+    progress: 90%
+    color: "#fdb157"
+  - title: Logo Design
+    progress: 60%
+    color: "#9473e6"
+  - title: After Effects
+    progress: 80%
+    color: "#bdecf6"
+  - title: Web App
+    progress: 70%
+    color: "#ffbcaa"
 experience:
-  enable : false
-  title : "Experience"
+  enable: false
+  title: Experience
   item:
-    - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
-
-    - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
-
-    - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
-
-# education
+  - logo: images/experience/icon-1.png
+    title: Junior UX Designer
+    company: WEBEX
+    duration: Jan 2007 - Feb 2009
+  - logo: images/experience/icon-2.png
+    title: UX & UI Designer
+    company: AUGMEDIX
+    duration: Mar 2009 - Aug 2014
+  - logo: images/experience/icon-1.png
+    title: Senior UI Designer
+    company: THEMEFISHER
+    duration: Sep 2014 - Present
 education:
-  enable : false
-  title : "Education"
+  enable: false
+  title: Education
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
-
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
-
-# service
+  - title: Marters in UX Design
+    year: "2006"
+    academy: Masassusets Institute of Technology
+  - title: Honours in Fine Arts
+    year: "2004"
+    academy: Harvard University
+  - title: Higher Secondary Certificat
+    year: "2000"
+    academy: Cardiff School
+  - title: Secondary School Certificate
+    year: "1998"
+    academy: Cardiff School
 service:
-  enable : false
-  title : "Services"
+  enable: false
+  title: Services
   item:
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
-
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : true
-
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
-
-# portfolio
+  - title: UI Design
+    icon: ti-palette
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: false
+  - title: UX Design
+    icon: ti-vector
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: true
+  - title: Interaction Design
+    icon: ti-panel
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: false
 portfolio:
-  enable : true
-  title : "Projekti"
-  item_show : 5
-  # portfolio item comes from 'data/portfolio.yml' item.
-
-# testimonial
+  enable: true
+  title: Projekti
+  item_show: "5"
 testimonial:
-  enable : false
-  title : "Testimonials"
+  enable: false
+  title: Testimonials
   item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-# client logo slider
+  - name: Jesica Gomez
+    image: images/testimonial/client-1.png
+    designation: CEO, Funder
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
+      esse cillum dolore eu fugiat nulla pariatur.
+  - name: Shirley Scot
+    image: images/testimonial/client-1.png
+    designation: CEO, Funder
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
+      esse cillum dolore eu fugiat nulla pariatur.
+  - name: Jessica Julie
+    image: images/testimonial/client-1.png
+    designation: CEO, Funder
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
+      esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable : true
-  title : "Sponzori"
+  enable: true
+  title: Sponzori
   item:
-    - logo : "images/sponsors/include zlatni.png"
-      URL : "https://www.include.eu"
-
-    - logo : "images/sponsors/aspira.jpg"
-      URL : "https://aspira.hr"
-
-    - logo : "images/sponsors/dentech.png"
-      URL : "https://www.dentech.hr"
-
-    - logo : "images/sponsors/getbybus.png"
-      URL : "https://www.getbybus.com"
-
-    - logo : "images/sponsors/toto.jpg"
-      URL : "https://www.facebook.com/totosburgerbar/"
-
-    - logo : "images/sponsors/typequast.png"
-      URL : "https://typeqast.com/en/"
-
-
-# blog
+  - logo: images/sponsors/include zlatni.png
+    URL: https://www.include.eu
+  - logo: images/sponsors/aspira.jpg
+    URL: https://aspira.hr
+  - logo: images/sponsors/dentech.png
+    URL: https://www.dentech.hr
+  - logo: images/sponsors/getbybus.png
+    URL: https://www.getbybus.com
+  - logo: images/sponsors/toto.jpg
+    URL: https://www.facebook.com/totosburgerbar/
+  - logo: images/sponsors/typequast.png
+    URL: https://typeqast.com/en/
 blog:
-  enable : true
-  title : "Blog"
-  # blog post comes from "content/blog" folder
+  enable: true
+  title: Blog
