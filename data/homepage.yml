@@ -111,6 +111,8 @@ clients_logo_slider:
   enable: true
   title: Sponzori
   item:
+  - logo: "/images/sponsors/krilo srebrni.png"
+    URL: https://hotelkrilo.com/
   - logo: images/sponsors/include zlatni.png
     URL: https://www.include.eu
   - logo: images/sponsors/aspira.jpg
