@@ -1,44 +1,44 @@
 # portfolio item
 item:
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
+  - image : "images/projects/projekt1.jpg"
+    project_url : "https://klubmladihsplit.hr"
     category: "design"
       
-  - image : "images/portfolio/item-2.png"
-    project_url : "#"
+  - image : "images/projects/projekt2.jpg"
+    project_url : "https://klubmladihsplit.hr"
     category: "branding"
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "http://examplesite.com"
+  - image : "images/projects/projekt3.jpg"
+    project_url : "https://klubmladihsplit.hr"
     category: "illustration"
       
-  - image : "images/portfolio/item-5.png"
-    project_url : "#"
+  - image : "images/projects/projekt4.jpeg"
+    project_url : "https://klubmladihsplit.hr"
     category: "design"
       
-  - image : "images/portfolio/item-8.png"
-    project_url : "http://examplesite.com"
+  - image : "images/projects/projekt5.jpg"
+    project_url : "https://klubmladihsplit.hr"
     category: "illustration"
       
-  - image : "images/portfolio/item-6.png"
-    project_url : "#"
+  - image : "images/projects/projekt6.jpg"
+    project_url : "https://klubmladihsplit.hr"
     category: "design"
       
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
+  - image : "images/projects/projekt7.jpg"
+    project_url : "https://klubmladihsplit.hr"
     category: "branding"
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "#"
+  - image : "images/projects/projekt8.jpg"
+    project_url : "https://klubmladihsplit.hr"
     category: "illustration"
       
-  - image : "images/portfolio/item-7.png"
-    project_url : "http://examplesite.com"
+  - image : "images/projects/projekt9.jpeg"
+    project_url : "https://klubmladihsplit.hr"
     category: "branding"
 
 
 # client logo slider
 clients_logo_slider:
   enable : true
-  title : "My Clients"
+  title : "Sponzori"
   # clients logo comes from 'data/homepage.yml' file
