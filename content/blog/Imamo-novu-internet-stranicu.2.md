@@ -5,7 +5,7 @@ image: images/blog/post-2/web-screenshot-hero.png
 description: This is meta description.
 
 ---
-*Napisao: Tomislav Mamić"*
+*Napisao: Tomislav Mamić*
 
 ### Odabir tehnologije i načina izrade
 Nova web stranica Kluba mladih Split nastala je za vrijeme Hack4Split 2020. hackathona. Kako bi smanjili troškove, odabrali smo Jamstack kao tehnologiju koja omogućava besplatnu izradu veoma brzih web stranica, za koje nije potreban klasičan server. Kako smo server za staru stranicu plaćali oko 30$ mjesečno, ovime smo postigli značajnu uštedu za Klub. Nova web stranica je i brža od prethodne.
