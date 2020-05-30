@@ -1,6 +1,7 @@
 +++
 date = 2020-05-29T22:00:00Z
 description = ""
+draft = true
 image = "/images/blog-2.png"
 title = "Kako voditi profil i oglašavati se na Instagramu?"
 
