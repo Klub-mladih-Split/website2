@@ -1,6 +1,7 @@
 +++
 date = 2020-05-29T22:00:00Z
 description = ""
+draft = true
 image = "/images/b.jpg"
 title = "Kako voditi profil i oglašavati se na Instagramu?"
 
@@ -29,7 +30,7 @@ Poslovni profil je odlična opcija za vaše poslovanje zato što olakšava kupci
 
 U opisima vaših objava možete ispričati priču kako je vaš proizvod nastao. Pozovite pratitelje da odgovore na vaša pitanja u komentarima objave ili da vam pošalju direktnu poruku. Možete organizirati darivanja i označavati druge na svojim objavama. Pazite na estetiku vašeg profila i budite dosljedni u objavljivanju sadržaja. Možete koristiti emotikone koje predstavljaju vaše poslovanje.
 
-**5.** **HASHTAGOVI**
+**5.** #**HASHTAGOVI**
 
 Hashtagovi su najbolji način da povećate svoju izloženost na Instagramu i uvijek počinju s znakom #. Kopiranje istih hashtagova na svakoj novoj objavi utjecat će negativno na vaš angažman i djelovat ćete kao osoba koja dijeli neželjeni sadržaj. Trebate koristiti hashtagove koje vaša ciljna publika prati i koji predstavljaju vaše poslovanje. Bolji odabir su hashtagovi koji imaju nižu popularnost od onih koji imaju milijun objava. U suprotnom će vaša objava nestati iz najnovijih objava (_feeda)_. Izbjegavajte hashtagove poput _like4like_, _follow4follow_. Koristite nišne hashtagove i provjerite svaki hashtag koji želite koristiti.
 
