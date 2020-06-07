@@ -1,7 +1,6 @@
 +++
 date = 2020-06-06T22:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Kako napraviti online anketu ili obrazac za narudžbe  – Što sam naučila na DKU praksi"
 
