@@ -1,6 +1,7 @@
 +++
 date = 2020-06-09T22:00:00Z
 description = ""
+draft = true
 image = "/images/online-marketing1.jpg"
 title = "Kako izgraditi uspješnu strategiju internetskog oglašavanja"
 
@@ -13,9 +14,9 @@ Za male tvrtke u današnje vrijeme online marketing je gotovo obvezan. No što p
 
 Prednosti i nedostatci?
 
-Neke od prednosti online marketinga su **ekonomičnost**, što znači da možete doprijeti do većeg broja ljudi za malo ili nimalo novca. **Široki doseg** koji vam omogućava da ciljate globalnu publiku, ili u najmanju ruku širu publiku od one koju ciljali kod oslanjanja na offline marketing. **Mjerljivi rezulatati** koji se lakše prate u odnosu na offline marketing jer postoje mnogi alati koje možete koristiti kako bi saznali koji marketinški kanali dovode leadse i prodaju.
+Neke od prednosti online marketinga su ekonomičnost, što znači da možete doprijeti do većeg broja ljudi za malo ili nimalo novca. Široki doseg koji vam omogućava da ciljate globalnu publiku, ili u najmanju ruku širu publiku od one koju ciljali kod oslanjanja na offline marketing. Mjerljivi rezulatati koji se lakše prate u odnosu na offline marketing jer postoje mnogi alati koje možete koristiti kako bi saznali koji marketinški kanali dovode leadse i prodaju.
 
-Iako vam online marketing može pružiti neke od gore navedenih prednosti, s njime dolaze i neki nedostaci: **može biti vrlo tehnički.** S obzirom na to da je vaš medij internet, mnogi alati i metode mogu biti tehničke. Ako niste tehnički nadareni ili ako niste sigurni gdje započeti, možda ćete trebati posvetiti vrijeme učenju o online marketingu ili ćete morati zaposliti iskusnije osobe kako bi vam pomogle. **Pravila i trendovi** koji upravljaju online marketingom se brzo mijenjaju. Zato se, kada velike platforme poput Googlea ili Facebooka najave promjenu njihovih algoritama, marketingaši požure ažurirati. **Manje osobnog kontakta.** Najbolja stvar kod prodaje u trgovini ili unutar određene lokacije je da možete ostvariti kontakt licem u lice s mnogim, ako ne većinom, potencijalnih klijenata. To vam omogućava da lako kreirate bliskiji odnos sa vašim klijentima. Kod online marketinga, uobičajena je komunikacija pute emailova, društvenih medija i ostalih oblika komunikacije koji se zasnivaju na internetu.
+Iako vam online marketing može pružiti neke od gore navedenih prednosti, s njime dolaze i neki nedostaci: može biti vrlo tehnički. S obzirom na to da je vaš medij internet, mnogi alati i metode mogu biti tehničke. Ako niste tehnički nadareni ili ako niste sigurni gdje započeti, možda ćete trebati posvetiti vrijeme učenju o online marketingu ili ćete morati zaposliti iskusnije osobe kako bi vam pomogle. Pravila i trendovi koji upravljaju online marketingom se brzo mijenjaju. Zato se, kada velike platforme poput Googlea ili Facebooka najave promjenu njihovih algoritama, marketingaši požure ažurirati. Manje osobnog kontakta. Najbolja stvar kod prodaje u trgovini ili unutar određene lokacije je da možete ostvariti kontakt licem u lice s mnogim, ako ne većinom, potencijalnih klijenata. To vam omogućava da lako kreirate bliskiji odnos sa vašim klijentima. Kod online marketinga, uobičajena je komunikacija pute emailova, društvenih medija i ostalih oblika komunikacije koji se zasnivaju na internetu.
 
 Strategije online marketinga za vašu malu tvrtku
 
