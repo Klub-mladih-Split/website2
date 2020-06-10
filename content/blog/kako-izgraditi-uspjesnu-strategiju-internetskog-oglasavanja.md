@@ -1,7 +1,6 @@
 +++
 date = 2020-06-09T22:00:00Z
 description = ""
-draft = true
 image = "/images/online-marketing.jpeg"
 title = "Kako izgraditi uspješnu strategiju internetskog oglašavanja"
 
