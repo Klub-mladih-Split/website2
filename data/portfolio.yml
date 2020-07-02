@@ -1,6 +1,7 @@
 # portfolio item
 item:
   - image : "images/projects/projekt1.jpg"
+    project_title : "Društveno Korisno Učenje"
     project_url : "/dku/"
     category: "edukacija"
       
