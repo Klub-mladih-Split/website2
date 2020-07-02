@@ -28,5 +28,3 @@ Osim ovoga, da bi web stranica koju izgradi Hugo bila dostupna na našoj domeni 
 Kross Hugo tema posjeduje dosta elemenata koji nam u ovoj fazi nisu bili potrebni. Srećom, lako ih je samo onemogućit, bez brisanja. Na taj način je u budućnosti moguće ubaciti još efektnih vizualnih poruka i informacija.
 
 Kod prvog uređivanja, sadržaj smo u najvećoj mjeri promijenili korištenjem Visual Studio Code alata. Kasnije, tehnički manje iskusni članovi će uređivati web stranicu putem Forestry sučelja. Inače, sve promjene na web stranici su vidljive na [*commits* stranici Github repositorija](https://github.com/Klub-mladih-Split/website2/commits).
-
-*Napisao: Tomislav Mamić*
