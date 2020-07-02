@@ -3,11 +3,9 @@ date = 2020-05-29T22:00:00Z
 description = ""
 image = "/images/b.jpg"
 title = "Kako voditi profil i oglašavati se na Instagramu?"
-
+author = "Nataly Zubović"
 +++
 **Kako voditi profil i oglašavati se na Instagramu?**
-
-**Autor: Nataly Zubović**
 
 Instagram je društvena platforma koja je od svog osnivanja 2010. godine doživjela značajnu transformaciju i omogućila mnogim korisnicima da napreduju u različitim područjima. Prisutnost na Instagramu je bila izuzetno važna za vrijeme karantene, kada su društvene mreže bile jedini put do kupaca.
 

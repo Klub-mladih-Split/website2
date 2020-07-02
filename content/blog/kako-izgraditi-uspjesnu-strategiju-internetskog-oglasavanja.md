@@ -3,7 +3,7 @@ date = 2020-06-09T22:00:00Z
 description = ""
 image = "/images/online-marketing1.jpg"
 title = "Kako izgraditi uspješnu strategiju internetskog oglašavanja"
-
+author = "Tihana Luketić"
 +++
 Online marketing
 
@@ -40,5 +40,3 @@ Plati-po-kliku oglašavanje (pay-per-click, PPC) je model online oglašavanja ko
 Optimizacija pretraživača ili SEO (search engine optimization) je proces u kojem optimizirate vašu stranicu kako biste osigurali da se pojavi u rezultatima pretraživanja kada osobe pretražuju koristeći ključnu riječ koja je relevantna za vašu tvrtku.
 
 Evo kako radi: Recimo da korisnik treba određeni proizvod ili uslugu, kao što je uređenje okoliša. Mogu otići na Google i pretraživati "prodaja domaćeg povrća", dodati svoju lokaciju u pojmove za pretraživanje i pojavit će se lista rezultata. SEO je u biti trud tvrtke kako bi osigurali da će se nalaziti što je moguće više na listi tih rezultata. U gornjem primjeru, rezultati uključuju linkove sa Google Maps, Yelpa, Facebooka i stranica tvrtki. Zbog toga što se zasniva na prometu pretraživača, SEO je najbolji za ostvarenje ciljeva povećanja novih prodaja ili klijenata.
-
-Autorica: Luketić Tihana

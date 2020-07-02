@@ -3,9 +3,9 @@ title: Zašto je komunikacija važna u prodaji?
 date: 2019-05-12T06:14:34.000+00:00
 image: images/blog/post-1/Slika1.jpg
 description: This is meta description.
-
+author: izv.prof.dr.sc. Ivana Bilić
 ---
-*Autor: izv.prof.dr.sc. Ivana Bilić*  
+
   
 Od kad se spominje tržište, kao mjesto susreta ponude i potražnje, komunikacija među sudionicima prodajnog procesa nameće se kao osnova koja je presudna za uspjeh prodajnog procesa. Oblici i način komunikacije uvelike ovise o prirodi samog posla, posebno izabranim kanalima distribucije i prodaje. Obzirom kako je tema sama po sebi jako široka u ovom blog postu fokus će biti na komunikaciju koja je ključna malim proizvođačima, koji su sada tijekom COVID19 od malih proizvođača preko noći postali osobni prodavači.
 
