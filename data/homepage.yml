@@ -78,7 +78,7 @@ service:
 portfolio:
   enable: true
   title: Projekti
-  item_show: "5"
+  item_show: "6"
 testimonial:
   enable: false
   title: Testimonials
@@ -111,9 +111,9 @@ clients_logo_slider:
   enable: true
   title: Sponzori
   item:
-  - logo: "/images/sponsors/krilo srebrni.png"
+  - logo: "images/sponsors/krilo srebrni.png"
     URL: https://hotelkrilo.com/
-  - logo: images/sponsors/include zlatni.png
+  - logo: "images/sponsors/include zlatni.png"
     URL: https://www.include.eu
   - logo: images/sponsors/aspira.jpg
     URL: https://aspira.hr
