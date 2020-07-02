@@ -1,8 +1,8 @@
 # portfolio item
 item:
   - image : "images/projects/projekt1.jpg"
-    project_url : "https://klubmladihsplit.hr"
-    category: "design"
+    project_url : "/dku/"
+    category: "edukacija"
       
   - image : "images/projects/projekt2.jpg"
     project_url : "https://klubmladihsplit.hr"
@@ -36,9 +36,8 @@ item:
     project_url : "https://klubmladihsplit.hr"
     category: "branding"
 
-
 # client logo slider
-clients_logo_slider:
+clients_logo_slider :
   enable : true
   title : "Sponzori"
-  # clients logo comes from 'data/homepage.yml' file
+# clients logo comes from 'data/homepage.yml' file
