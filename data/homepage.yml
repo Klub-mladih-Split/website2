@@ -109,20 +109,20 @@ testimonial:
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
   enable: true
-  title: Sponzori
+  title: "Sponzori"
   item:
-  - logo: "images/sponsors/krilo srebrni.png"
-    URL: https://hotelkrilo.com/
-  - logo: "images/sponsors/include zlatni.png"
-    URL: https://www.include.eu
-  - logo: images/sponsors/aspira.jpg
+  - logo : images/sponsors/krilo srebrni.png
+    URL : https://hotelkrilo.com/
+  - logo : images/sponsors/include zlatni.png
+    URL : https://www.include.eu
+  - logo : images/sponsors/aspira.jpg
     URL: https://aspira.hr
-  - logo: images/sponsors/dentech.png
-    URL: https://www.dentech.hr
-  - logo: images/sponsors/getbybus.png
+  - logo : images/sponsors/dentech.png
+    URL : https://www.dentech.hr
+  - logo : images/sponsors/getbybus.png
     URL: https://www.getbybus.com
-  - logo: images/sponsors/typequast.png
-    URL: https://typeqast.com/en/
+  - logo : images/sponsors/typequast.png
+    URL : https://typeqast.com/en/
 blog:
   enable: true
   title: Blog
