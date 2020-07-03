@@ -2,7 +2,6 @@
 author = "Mira Ursić"
 date = 2020-06-17T22:00:00Z
 description = "Suočavanje s negativnim povratnim informacijama na društvenim mrežama može biti izrazito neugodno, pogotovo ako nemate pravilnik po kojem bi ste trebali postupiti s njima. S obzirom da se u današnjem poslovnom svijetu sve više pažnje pridaje upravo kupcu, potrebno je napraviti plan za rješavanje potonjih situacija prije nego što nastanu."
-draft = true
 image = "/images/neg-pov-info.png"
 title = "Kako postupiti s negativnim povratnim informacijama na društvenim mrežama"
 
