@@ -1,8 +1,9 @@
 +++
 date = 2020-07-07T22:00:00Z
 description = ""
+draft = true
 image = "/images/local.jpg"
-title = "KORISTI LOKALNOG OGLAŠAVANJA ZA MALE PODUZETNIKE (GOOGLE MY BUSINESS)"
+title = "Koristi lokalnog oglašavanja za male poduzetnike (Google my business)"
 
 +++
 Autor: Antonio Štimac
