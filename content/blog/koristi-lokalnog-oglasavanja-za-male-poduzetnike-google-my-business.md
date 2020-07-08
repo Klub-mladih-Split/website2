@@ -1,6 +1,7 @@
 +++
 date = 2020-07-07T22:00:00Z
 description = ""
+draft = true
 image = "/images/local.jpg"
 title = "Koristi lokalnog oglašavanja za male poduzetnike (Google my business)"
 
@@ -15,9 +16,9 @@ Zasigurno se neki već pitaju što je GMB, i koje su njegovi koristi !? Google M
 
 Ako planirate online strategiju, GMB je neophodan alat za vidljivost na Google tražilici. Također korisna stvar za poduzeća, ali i za sadašnje i potencijalne korisnike je mogućnost ocjenjivanja i ostavljanja recenzije, koju možemo slobodno nazvati online verzijom usmene predaje. Uz navedeno recenziranje i ocjenjivanje, GMB je također koristan za:
 
-* isticanje poslovanja u rezultatima pretraživanja
-* pri davanju krucijalnih informacija korisniku na temelju kojih isti može odlučiti hoće li Vas posjetiti (radno vrijeme, karta s uputama, telefonski broj)
-* lokalno pretraživanje putem mobilnih uređaja (GMB najveću pozornost obraća na mobilnu vidljivost – budući da su korisnici koji pretražuju relevantna poduzeća najčešće u pokretu i trebaju instant-informacije)
+1. isticanje poslovanja u rezultatima pretraživanja
+2. pri davanju krucijalnih informacija korisniku na temelju kojih isti može odlučiti hoće li Vas posjetiti (radno vrijeme, karta s uputama, telefonski broj)
+3. lokalno pretraživanje putem mobilnih uređaja (GMB najveću pozornost obraća na mobilnu vidljivost – budući da su korisnici koji pretražuju relevantna poduzeća najčešće u pokretu i trebaju instant-informacije)
 
 Četiri najvažnije stvari na koje treba obratiti pozornost kod izrade GMB računa su:
 
