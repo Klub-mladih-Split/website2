@@ -1,6 +1,7 @@
 +++
 date = 2020-08-09T22:00:00Z
 description = ""
+draft = true
 image = "/images/pbm3.jpg"
 title = "Uz pomoć Kluba mladih do shoppinga i posla: Bravo, Darija!"
 
