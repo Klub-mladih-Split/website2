@@ -1,6 +1,7 @@
 +++
 date = 2020-08-09T22:00:00Z
 description = ""
+draft = true
 image = "/images/pbm3.jpg"
 title = "Uz pomoć Kluba mladih do shoppinga i posla: Bravo, Darija!"
 
@@ -19,9 +20,9 @@ Brojni zainteresirani tako su sudjelovali na predavanjima i radionicama priznati
 * predavanje prof.dr.sc. Ivane Bilić o poslovnoj komunikaciji
 * panel raspravu "Kako ne dobiti posao za koji se prijaviš?"
 
-Cilj ovog projekta bio je olakšati mladima početak karijernog puta i osnažiti njihove '_soft skills_', a da smo u tome i uspjeli, iz prve nam je ruke potvrdila **Darija Sučević**, čija nas je prijava oduševila i donijela joj pobjedu!
+Cilj ovog projekta bio je olakšati mladima početak karijernog puta i osnažiti njihove '_soft skills_', a da smo u tome i uspjeli, iz prve nam je ruke potvrdila Darija Sučević, čija nas je prijava oduševila i donijela joj pobjedu!
 
-Darija je nagrađena shoppingom sa stilisticom **Silvijom Dvornik** uz poklon bon od 1000 kn.
+Darija je nagrađena shoppingom sa stilisticom Silvijom Dvornik uz poklon bon od 1000 kn.
 
 Našli smo se s Darijom i Silvijom te u opuštenoj i veseloj atmosferi obavili shopping.
 
