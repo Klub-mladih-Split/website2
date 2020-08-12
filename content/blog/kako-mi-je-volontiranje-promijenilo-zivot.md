@@ -1,7 +1,6 @@
 +++
 date = 2020-08-11T22:00:00Z
 description = ""
-draft = true
 image = "/images/splitski-cvit.jpg"
 title = "Kako mi je volontiranje promijenilo život"
 
